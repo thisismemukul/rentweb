@@ -1,6 +1,6 @@
 # Rentweb E-commerce Website using PHP & MySQL
 <p align="center">
-<img src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif" alt="Rentweb" title="Rentweb show gif" width="500"/>
+<img src="https://github.com/thisismemukul/rentweb/blob/main/assets/rentweb.gif" alt="Rentweb" title="Rentweb show gif" width="500"/>
 </p>
 <h3> Website Link 🔗: https://www.rentweb.ml/</h3>
 Rentweb is a online product renting website for a local user of a society. This website will be designed to maximize the efficiency of E-commerce market by providing tools to assist users to be friendly with the online interface rather then process, which would otherwise have to be performed manually. By maximizing the user’s work efficiency and production the website will meet the user’s needs while remaining easy to understand and use. More specifically, this website is designed to allow an user to buy or Rent products with a group of individuals and sellers to simply the problem of lack of product availability of items in the digital market.
