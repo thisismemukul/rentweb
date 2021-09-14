@@ -18,7 +18,7 @@ Rentweb facilitate communication between sellers, buyers, and the Shopkeepers by
 
 The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license].
 
-[mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
+[mlh-license]: https://github.com/thisismemukul/rentweb/blob/main/LICENSE.md
 
 ============================================================================
 
