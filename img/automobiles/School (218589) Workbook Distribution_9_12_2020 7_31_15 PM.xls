@@ -1,0 +1,493 @@
+﻿<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">SchoolNicId</th><th scope="col">Name</th><th scope="col">Class</th><th scope="col">Section</th><th scope="col">FatherName</th><th scope="col">MotherName</th><th scope="col">Subject</th><th scope="col">BookName</th>
+		</tr><tr>
+			<td>218589</td><td>Faran Khan</td><td>1</td><td>A</td><td>Javed Khan</td><td>Guddy</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Himanshu Prajapat</td><td>1</td><td>A</td><td>Kaluram Prajapat</td><td>Geeta Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Naksha Narolia</td><td>1</td><td>A</td><td>Hansraj Narolia</td><td>Sunita Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Rajveer Dabariya</td><td>1</td><td>A</td><td>Sohan Lal Dabariya</td><td>Pooja Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>DEVAKI PRAJAPAT</td><td>2</td><td>A</td><td>KALU RAM PRAJAPAT</td><td>GEETA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>GUDDI SOLANKI</td><td>2</td><td>A</td><td>SHRI MOTIRAM BAWARIYA</td><td>SMT VIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Guddu Solanki</td><td>2</td><td>A</td><td>Babulal Bawariya</td><td>Oma Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Kalu Solanki</td><td>2</td><td>A</td><td>Babulal Solanki</td><td>Oma Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KAMLESH SOLANKI</td><td>2</td><td>A</td><td>SHRI MOTIRAM BAWARIYA</td><td>SMT VIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KUSUM PRAJAPAT</td><td>2</td><td>A</td><td>TOPHAN MAL</td><td>SUSHILA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA PRAJAPAT</td><td>2</td><td>A</td><td>PRAKASH PRAJAPAT</td><td>REKHA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SIMRAN TIMOLIYA</td><td>2</td><td>A</td><td>BANTI HARIJAN</td><td>POOJA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Twinkale Timoliya</td><td>2</td><td>A</td><td>Banti Timoliya</td><td>Pooja Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>DEEPAK NAROLIYA</td><td>3</td><td>A</td><td>RAJESH NAROLIYA</td><td>SUNITA DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>DEEPAK NAROLIYA</td><td>3</td><td>A</td><td>RAJESH NAROLIYA</td><td>SUNITA DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>GANESH JAKHAD</td><td>3</td><td>A</td><td>SAWER JAKHAD</td><td>RAMPYARI DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>GANESH JAKHAD</td><td>3</td><td>A</td><td>SAWER JAKHAD</td><td>RAMPYARI DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>GAUTAM BUNKAR</td><td>3</td><td>A</td><td>SANWAR MAL VERMA</td><td>LALITA DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>GAUTAM BUNKAR</td><td>3</td><td>A</td><td>SANWAR MAL VERMA</td><td>LALITA DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>JYOTI KUMHAR</td><td>3</td><td>A</td><td>SHRI SANWARMAL KUMHAR</td><td>SMT POOJA DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>JYOTI KUMHAR</td><td>3</td><td>A</td><td>SHRI SANWARMAL KUMHAR</td><td>SMT POOJA DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSHBU NAROLIYA</td><td>3</td><td>A</td><td>SHRI LATE HANSRAJ NAROLIYA</td><td>SMT SUNITA DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSI MEENA</td><td>3</td><td>A</td><td>RAMSWROOP MEENA</td><td>NITU MEENA</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSI MEENA</td><td>3</td><td>A</td><td>RAMSWROOP MEENA</td><td>NITU MEENA</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>KINNY NAROLIYA</td><td>3</td><td>A</td><td>SHRI LATE.HANSRAJ NAROLIYA</td><td>SMT SUNITA DEVI</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>Monu Solanki</td><td>3</td><td>A</td><td>Motiram Bawariya</td><td>Bimla Devi</td><td>Math</td><td>कक्षा 3 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>Chetan  Soni</td><td>4</td><td>A</td><td>Deepak Kumar Soni</td><td>Kavita Devi Soni</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>DASHARATH SAIN</td><td>4</td><td>A</td><td>SHRI SITARAM SAIN</td><td>SMT MAMTA SAIN</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>DEEPAK PRAJAPAT</td><td>4</td><td>A</td><td>SAWARMAL PRAJAPAT</td><td>POOJA PRAJAPAT</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>GULSHAN ULTHANIYA</td><td>4</td><td>A</td><td>SOBARAN ULTHANIYA</td><td>POOJA ULTHANIYA</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>KARTIK TIMOLIYA</td><td>4</td><td>A</td><td>SHRI BANTY HARIJAN</td><td>SMT POOJA DEVI</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>Mohit Kumar Dabariya</td><td>4</td><td>A</td><td>Sohan Lal Dabariya</td><td>Pooja Devi</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYANSHI SAIN</td><td>4</td><td>A</td><td>RADHE SHYAM SAIN</td><td>KIRAN SAIN</td><td>Math</td><td>कक्षा 4 कार्यपुस्तिका</td>
+		</tr><tr>
+			<td>218589</td><td>ARCHNA SOLANKI</td><td>5</td><td>A</td><td>MOTI LAL SOLANKI</td><td>BIMLA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>DIVYA NAROLIYA</td><td>5</td><td>A</td><td>LATE. RAJESH NAROLIYA</td><td>SUNITA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>KAMAL KUMAR JAT</td><td>5</td><td>A</td><td>SHRI SANWAR MAL JAT</td><td>SMT LALI DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>KAUSHALYA SOLANKI</td><td>5</td><td>A</td><td>BABULAL SOLANKI</td><td>OMA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>Nandini Swami</td><td>5</td><td>A</td><td>Rajaram Swami</td><td>Suman Devi</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>NIRAJ ULTHANIYA</td><td>5</td><td>A</td><td>SOBARAN ULTHANIYA</td><td>POOJA ULTHANIYA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>Palak Soni</td><td>5</td><td>A</td><td>Deepak Kumar Soni</td><td>Kavita Devi Soni</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PIYUSH SHARMA</td><td>5</td><td>A</td><td>BANWARI LAL SHARMA</td><td>KAMLI SHARMA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>SACHIN GURJAR</td><td>5</td><td>A</td><td>VISHRAM GURJAR</td><td>LAKSHMA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td> SAPANA MEENA</td><td>6</td><td>A</td><td> PRAKASH CHAND MEENA</td><td>PANCHI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ANKIT SHARMA</td><td>6</td><td>A</td><td>MAHESH CHAND SHARMA</td><td>NANCHHI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ANSHUL ULTHANIYA</td><td>6</td><td>A</td><td>SOBARAN ULTHANIYA</td><td>POOJA ULTHANIYA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ARTI SHARMA</td><td>6</td><td>A</td><td>BANWARI LAL SHARMA</td><td>SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>BANSHI GURJAR</td><td>6</td><td>A</td><td> MADAN LAL GURJAR</td><td> MOHINI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>HIMANSHU MEENA</td><td>6</td><td>A</td><td>RAM JIVAN MEENA</td><td>TULSI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA SOLANKI</td><td>6</td><td>A</td><td>MOTI LAL SOLANKI</td><td>BIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>NEETU DABARIYA</td><td>6</td><td>A</td><td>VINOD KUMAR DABARIYA</td><td> PUSHPA DEVI</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>NEETU DABARIYA</td><td>6</td><td>A</td><td>VINOD KUMAR DABARIYA</td><td> PUSHPA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>NEHA KUMARI MEENA</td><td>6</td><td>A</td><td>RAMJEEVAN MEENA</td><td>SANGITA DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL SHARMA</td><td>6</td><td>A</td><td>MAHESH CHAND SHARMA</td><td>NANCHHI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA MEENA</td><td>6</td><td>A</td><td>MUKESH MEENA</td><td>KAMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PRAMOD PRAJAPAT</td><td>6</td><td>A</td><td>SHAITAN PRAJAPAT</td><td> PREM DEVI</td><td>Hindi</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>PRAMOD PRAJAPAT</td><td>6</td><td>A</td><td>SHAITAN PRAJAPAT</td><td> PREM DEVI</td><td>English </td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA TIMOLIYA</td><td>6</td><td>A</td><td>SURESH TIMOLIYA</td><td> SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL VERMA </td><td>6</td><td>A</td><td>RAJESH KUMAR VERMA </td><td>NEELAM DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RITIKA SHARMA</td><td>6</td><td>A</td><td>GANESH SHARMA</td><td>MEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SONIA VERMA</td><td>6</td><td>A</td><td>RAJESH VERMA</td><td>NEELAM DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TANU KUMARI MEENA</td><td>6</td><td>A</td><td>SHRAWAN KUMAR MEENA</td><td>MANBHARI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Teena Meena</td><td>6</td><td>A</td><td>Rajendra Meena</td><td>Kamla Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>VISHAL SAIN</td><td>6</td><td>A</td><td> SITARAM SAIN</td><td> MAMTA SAIN</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>VISHAL SAIN</td><td>6</td><td>A</td><td> SITARAM SAIN</td><td> MAMTA SAIN</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>YASHIKA LAKHERA</td><td>6</td><td>A</td><td>MUKESH LAKHERA</td><td>MINKU DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>AASTHA VERMA</td><td>7</td><td>A</td><td>SANWAR MAL VERMA</td><td>LALITA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>BANWARI LAL GURJAR</td><td>7</td><td>A</td><td> MADAN LAL GURJAR</td><td> MOHANI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>CHETAN SWAMI</td><td>7</td><td>A</td><td> MADAN VAISHNAV</td><td>NANDU DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>DEEPAK PRAJAPAT</td><td>7</td><td>A</td><td> RAMNIWAS PRAJAPAT</td><td> KAUSHALYA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>HARISH SWAMI</td><td>7</td><td>A</td><td>RAMSWAROOP SWAMI</td><td>SHARADA SWAMI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>HARISH SWAMI</td><td>7</td><td>A</td><td>RAMSWAROOP SWAMI</td><td>SHARADA SWAMI</td><td>Hindi</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>HARISH SWAMI</td><td>7</td><td>A</td><td>RAMSWAROOP SWAMI</td><td>SHARADA SWAMI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>JYOTI PRAJAPAT</td><td>7</td><td>A</td><td>SHYOJIRAM PRAJAPAT</td><td> GUDDI DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>JYOTI PRAJAPAT</td><td>7</td><td>A</td><td>SHYOJIRAM PRAJAPAT</td><td> GUDDI DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>KOMAL DABARIA</td><td>7</td><td>A</td><td>BHAGCHAND DABARIA</td><td>SEETA DEVI</td><td>Hindi</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KOMAL DABARIA</td><td>7</td><td>A</td><td>BHAGCHAND DABARIA</td><td>SEETA DEVI</td><td>English </td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KOMAL GURJAR</td><td>7</td><td>A</td><td>VISHRAM GURJAR</td><td>LAKSHMA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA MEENA</td><td>7</td><td>A</td><td>UMRAV SINGH MEENA</td><td>SAJNA DEVI</td><td>Hindi</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA MEENA</td><td>7</td><td>A</td><td>UMRAV SINGH MEENA</td><td>SAJNA DEVI</td><td>English </td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>MEENAKSHI PRAJAPAT</td><td>7</td><td>A</td><td> RAMNIWAS PRAJAPAT</td><td>KAUSHALYA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PALAK PRAJAPAT</td><td>7</td><td>A</td><td>GOPAL PRAJAPAT</td><td>GEETA DEVI</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PALAK PRAJAPAT</td><td>7</td><td>A</td><td>GOPAL PRAJAPAT</td><td>GEETA DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PALAK PRAJAPAT</td><td>7</td><td>A</td><td>GOPAL PRAJAPAT</td><td>GEETA DEVI</td><td>Hindi</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL MEENA</td><td>7</td><td>A</td><td>SUBHASH MEENA</td><td>SAROJ MEENA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL PRAJAPAT</td><td>7</td><td>A</td><td> CHOUTH MAL PRAJAPAT</td><td> GEETA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL PRAJAPAT</td><td>7</td><td>A</td><td> CHOUTH MAL PRAJAPAT</td><td> GEETA DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA SHARMA</td><td>7</td><td>A</td><td>BANWARI LAL SHARMA</td><td>SANOTSH DEVI SHARMA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA SHARMA</td><td>7</td><td>A</td><td>BANWARI LAL SHARMA</td><td>SANOTSH DEVI SHARMA</td><td>Hindi</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA SHARMA</td><td>7</td><td>A</td><td>BANWARI LAL SHARMA</td><td>SANOTSH DEVI SHARMA</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>Hindi</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>Hindi</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA SHARMA</td><td>7</td><td>A</td><td>MAHESH KUMAR SHARMA</td><td>ARCHNA SHARMA</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYANKA MEENA</td><td>7</td><td>A</td><td>UMARAV SINGH MEENA</td><td>SAJNA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAJAN SAIN</td><td>7</td><td>A</td><td>RADHESHYAM SAIN</td><td> KIRAN DEVI</td><td>English</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>RAJAN SAIN</td><td>7</td><td>A</td><td>RADHESHYAM SAIN</td><td> KIRAN DEVI</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>RAJAN SAIN</td><td>7</td><td>A</td><td>RADHESHYAM SAIN</td><td> KIRAN DEVI</td><td>Hindi</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>RINKU MEENA</td><td>7</td><td>A</td><td>VINOD MEENA</td><td>MANJU MEENA</td><td>Math</td><td>सीख (कक्षा स्तर 3-4)</td>
+		</tr><tr>
+			<td>218589</td><td>VIJESH SAIN </td><td>7</td><td>A</td><td>BHAGCHAND SAIN</td><td>SUNITA DEVI</td><td>Hindi</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>VIJESH SAIN </td><td>7</td><td>A</td><td>BHAGCHAND SAIN</td><td>SUNITA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>VIJESH SAIN </td><td>7</td><td>A</td><td>BHAGCHAND SAIN</td><td>SUNITA DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>DILKHUSH GURJAR</td><td>8</td><td>A</td><td>VISHRAM GURJAR</td><td>LAKSHMA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KAJAL SHARMA</td><td>8</td><td>A</td><td>SHRI MAHESH CHAND SHARMA</td><td>SMT ARCHANA SHARMA</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>KAJAL SHARMA</td><td>8</td><td>A</td><td>SHRI MAHESH CHAND SHARMA</td><td>SMT ARCHANA SHARMA</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>KANCHAN PRAJAPAT</td><td>8</td><td>A</td><td>MANNA LAL PRAJAPAT</td><td>MOHANI DEVI</td><td>English </td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KANCHAN PRAJAPAT</td><td>8</td><td>A</td><td>MANNA LAL PRAJAPAT</td><td>MOHANI DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KANCHAN PRAJAPAT</td><td>8</td><td>A</td><td>MANNA LAL PRAJAPAT</td><td>MOHANI DEVI</td><td>Hindi</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KASHISH LAKHERA</td><td>8</td><td>A</td><td>MUKESH LAKHERA</td><td>MINKU DEVI</td><td>English </td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KASHISH LAKHERA</td><td>8</td><td>A</td><td>MUKESH LAKHERA</td><td>MINKU DEVI</td><td>Hindi</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KASHISH LAKHERA</td><td>8</td><td>A</td><td>MUKESH LAKHERA</td><td>MINKU DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSHBU MEENA</td><td>8</td><td>A</td><td>DELIP MEENA</td><td>GANGA MEENA</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSHBU MEENA</td><td>8</td><td>A</td><td>DELIP MEENA</td><td>GANGA MEENA</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSHIRAM JAT</td><td>8</td><td>A</td><td>SHRI SANWAR MAL JAT</td><td>SMT LALI DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>LUCKY TIMOLIYA</td><td>8</td><td>A</td><td>SHRI SURESH KUMAR TIMOLIYA</td><td>SMT SANTOSH DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>LUCKY TIMOLIYA</td><td>8</td><td>A</td><td>SHRI SURESH KUMAR TIMOLIYA</td><td>SMT SANTOSH DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>MUKESH SHARMA</td><td>8</td><td>A</td><td>SHRI RAMSWROOP SHARMA</td><td>SMT SANTOSH DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>NEETU GURJAR</td><td>8</td><td>A</td><td>SHRI NANDARAM GURJAR</td><td>SMT RUKMA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PRATISHTHA BUNAKER</td><td>8</td><td>A</td><td>SHRI LALA RAM BUNKAR</td><td>SMT LADA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYANKA GURJAR</td><td>8</td><td>A</td><td>SHRI ROOPCHAND GURJAR</td><td>SMT PHOOLI DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>Priyanka Meena</td><td>8</td><td>A</td><td>Rajendra Meena</td><td>Kamla Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL BUNKAR</td><td>8</td><td>A</td><td>SITARAM BUNKAR</td><td>GOPALI DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL BUNKAR</td><td>8</td><td>A</td><td>SITARAM BUNKAR</td><td>GOPALI DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>ROHIT NAROLIYA</td><td>8</td><td>A</td><td>MUKESH NAROLIYA</td><td>NIRMALA DEVI</td><td>English</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>ROHIT NAROLIYA</td><td>8</td><td>A</td><td>MUKESH NAROLIYA</td><td>NIRMALA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>SAPNA KUMARI BUNKAR</td><td>8</td><td>A</td><td>JAGDISH PRASAD</td><td>MEERA DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>SHIVRAM GURJAR</td><td>8</td><td>A</td><td>SHANKAR GURJAR</td><td>SURTA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TANU SHARMA</td><td>8</td><td>A</td><td>SHRI MAHESH CHAND SHARMA</td><td>SMT ARCHANA DEVI</td><td>Math</td><td>साथी (कक्षा स्तर 1-2)</td>
+		</tr><tr>
+			<td>218589</td><td>TEJPAL BUNKAR</td><td>8</td><td>A</td><td>DEVILAL BUNKAR</td><td>BHAGWATI DEVI</td><td>Math</td><td>समर्थ (कक्षा स्तर 5-6)</td>
+		</tr><tr>
+			<td>218589</td><td>TEJPAL PRAJAPAT</td><td>8</td><td>A</td><td>SHRI RAMNIVAS PRAJAPAT</td><td>SMT SHRAVANI PRAJAPAT</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>VIKRAM MEENA</td><td>8</td><td>A</td><td>SHRI SUBHASH MEENA</td><td>SMT SAROJ MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ANURADHA DABARIYA</td><td>9</td><td>A</td><td>MAHENDRA DABARIYA</td><td> SUMITRA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ASHA</td><td>9</td><td>A</td><td>NUNDA RAM</td><td>HEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>BUDDHI PRAKASH SWAMI</td><td>9</td><td>A</td><td> MADAN VAISHNAV</td><td> NANDU DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>CHANDAN SINGH MEENA</td><td>9</td><td>A</td><td> RAJENDRA MEENA</td><td> SARJU DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>HANSA PRAJAPAT</td><td>9</td><td>A</td><td>NAND LAL PRAJAPAT</td><td>GYARASI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>LAXMI TIMOLIYA</td><td>9</td><td>A</td><td>RAJU TIMOLIYA</td><td> SAROJ DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MAHENDRA GURJAR</td><td>9</td><td>A</td><td>RAJU RAM GURJAR</td><td>MANA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MAHESH KUMAR JANGID</td><td>9</td><td>A</td><td>GOPAL LAL JANGID</td><td>MOHANI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MAHESH SHARMA</td><td>9</td><td>A</td><td>SURESH KUMAR SHARMA</td><td>PREMI DEVI SHARMA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA MEENA</td><td>9</td><td>A</td><td>SUNIL KUMAR MEENA</td><td>SAROJ DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANJU PRAJAPAT</td><td>9</td><td>A</td><td>SHAITAN PRAJAPAT</td><td>PREM DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>NIKHIL BUNKAR</td><td>9</td><td>A</td><td>SUWA LAL BUNKAR</td><td>SITA DEVI BUNKAR</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>NISHA MEENA</td><td>9</td><td>A</td><td> PRAKASH CHAND MEENA</td><td> PANCHI DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>NISHA SHARMA </td><td>9</td><td>A</td><td>HANUMAN SAHAY SHARMA</td><td>SUNITA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>OM PRAKASH PRAJAPAT</td><td>9</td><td>A</td><td>SHYOJIRAM PRAJAPAT</td><td>GUDDI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL TIMOLIYA</td><td>9</td><td>A</td><td> SURESH KUMAR TIMOLIYA </td><td>SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RADHA MEENA</td><td>9</td><td>A</td><td> SHYOJIRAM MEENA</td><td> VIMALA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RADHIKA SHARMA</td><td>9</td><td>A</td><td>RAMSWAROOP SHARMA</td><td> MAMTA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL MEENA</td><td>9</td><td>A</td><td> PRABHU DAYAL MEENA</td><td> KAJODI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL TIMOLIYA</td><td>9</td><td>A</td><td>SURESH TIMOLIYA</td><td> SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAJ LAXMI SAIN</td><td>9</td><td>A</td><td> MOHAN LAL SAIN</td><td> ASHA DEVI SAIN</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SANJU PRAJAPAT</td><td>9</td><td>A</td><td> SHAITAN PRAJAPAT</td><td> PREM DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TANU SHARMA</td><td>9</td><td>A</td><td>GOPAL LAL SHARMA</td><td>VIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TARA PRAJAPAT</td><td>9</td><td>A</td><td>RAMNIWAS PRAJAPAT</td><td> SHRAWANI PRAJAPAT</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>UDAY SINGH MEENA</td><td>9</td><td>A</td><td>SURESH KUMAR MEENA</td><td>NANA DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>USHA MEENA</td><td>9</td><td>A</td><td>RAM SINGH MEENA</td><td>SUMAN DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>VIKAS NAROLIYA</td><td>9</td><td>A</td><td>TOFAN MAL NAROLIYA</td><td>SUMAN DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>YUVRAJ</td><td>9</td><td>A</td><td>NUNDA RAM</td><td>HEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ABHISHEK SHARMA</td><td>10</td><td>A</td><td>RAM NARAYAN SHARMA</td><td>LALI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ANITA SHARMA</td><td>10</td><td>A</td><td>GANESH SHARMA</td><td>MEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>AZAD MEENA</td><td>10</td><td>A</td><td>MAHESH MEENA</td><td>HEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>CHANCHAL BUNKAR</td><td>10</td><td>A</td><td> KALURAM BUNKAR</td><td>BABLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Himanshu Dabaria</td><td>10</td><td>A</td><td>Kanhaiya Lal Dabaria</td><td>Kaushalya Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Khushi Jain</td><td>10</td><td>A</td><td>Rakesh Kumar Jain</td><td>Mitthu Jain</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Komal Dabaria</td><td>10</td><td>A</td><td> Phool Chand Dabaria</td><td> Monika Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Lokesh Dabaria</td><td>10</td><td>A</td><td>Suresh Kumar Dabaria</td><td>Manju Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MAMTA GURJAR</td><td>10</td><td>A</td><td>MADAN LAL GURJAR</td><td> MOHINI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Mamta Prajapat</td><td>10</td><td>A</td><td>Tofan Mal Kumhar</td><td>Ganga Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISH SWAMI</td><td>10</td><td>A</td><td> SITARAM SWAMI</td><td> RAJNI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA KUMARI MEENA</td><td>10</td><td>A</td><td>SURESH KUMAR MEENA</td><td>NANA DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISHA SHARMA</td><td>10</td><td>A</td><td>MAHESH SHARMA</td><td>ARCHANA SHARMA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MEGHA MEENA</td><td>10</td><td>A</td><td>SURESH KUMAR MEENA</td><td>NANA DEVI MEENA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Nadeem Khan</td><td>10</td><td>A</td><td>Chotu Khan</td><td>Rukshana Bano</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PAYAL LAKHIWAL</td><td>10</td><td>A</td><td> SITARAM LAKHIWAL</td><td>BASANTI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Payal Verma</td><td>10</td><td>A</td><td>Bhanwar Lal Bunker</td><td>Geeta Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA SHARMA</td><td>10</td><td>A</td><td>KAMLESH KUMAR SHARMA</td><td>SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PRIYA PRAJAPAT</td><td>10</td><td>A</td><td>SANTOSH PRAJAPAT</td><td>PATASI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL JAT</td><td>10</td><td>A</td><td>GORDHAN JAT</td><td>MANRAJ DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAMAWATAR MEENA</td><td>10</td><td>A</td><td> SHYOJIRAM MEENA</td><td> VIMALA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RESHAMA BANO</td><td>10</td><td>A</td><td>RAHIM KHAN</td><td>RASHIDA BANO</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RINKU PRAJAPAT</td><td>10</td><td>A</td><td> RAMNIWAS PRAJAPAT</td><td> KAUSHALYA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SACHIN SHARMA</td><td>10</td><td>A</td><td>SATYANARAYAN SHARMA</td><td>SANTOSH SHARMA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SANJAY SHARMA</td><td>10</td><td>A</td><td>LALCHAND SHARMA</td><td>BABLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SEEMA MEENA </td><td>10</td><td>A</td><td> PRABHUDAYAL MEENA</td><td> KAJODI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SEHWAG VERMA</td><td>10</td><td>A</td><td>RAM LAL VERMA</td><td>SANTOSH DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SONU KUMARI JAT</td><td>10</td><td>A</td><td>SULTAN JAT</td><td>PRABHATI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TANNU KUMARI BUNKAR</td><td>10</td><td>A</td><td>SUWALAL BUNKAR</td><td>SITA DEVI BUNKAR</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>TANU MEENA</td><td>10</td><td>A</td><td>SHRAWAN LAL MEENA</td><td>RATNI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>VIKRAM MEENA</td><td>10</td><td>A</td><td>LALARAM MEENA</td><td>SHANTI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Vishnu Prajapat</td><td>10</td><td>A</td><td>Tofan Mal Kumahar</td><td>Ganga Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Yash Jain</td><td>10</td><td>A</td><td>Vimal Kumar Jain</td><td>Sadhana Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Aditya Meena</td><td>11</td><td>A</td><td>Suresh Kumar Meena</td><td>Nana Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ASHOK MEHTA</td><td>11</td><td>A</td><td>RAMPAL MEHTA</td><td>LALI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>JYOTI PRAJAPAT</td><td>11</td><td>A</td><td> TOPHAN MAL KUMHAR</td><td>GANGA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KHUSHBU SABLANIYA</td><td>11</td><td>A</td><td> BABULAL SABLANIYA</td><td> BIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KISHAN SABLANIYA</td><td>11</td><td>A</td><td> RAJKUMAR SABLANIYA</td><td> CHANDA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KOMAL KARWASLA</td><td>11</td><td>A</td><td>RAMSWARUP KARWASLA</td><td>SUPYAR DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>LAKKY SWAMI</td><td>11</td><td>A</td><td>RAMSWAROOP SWAMI</td><td>SHARDA  DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>LOKESH NAROLIYA</td><td>11</td><td>A</td><td>TOFAN MAL NAROLIYA</td><td>SUMAN DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Manoj Saini</td><td>11</td><td>A</td><td>Mohan Lal Saini</td><td>Norti Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MONIKA MEENA</td><td>11</td><td>A</td><td> PRABHU DAYAL MEENA</td><td> KAJODI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MOSINA BANO</td><td>11</td><td>A</td><td>MUJFFAR KHAN</td><td>NAFISA BANO</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>PINKY KUMARI MEENA</td><td>11</td><td>A</td><td> UMRAV SINGH MEENA</td><td>SAJANA DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL CHOUDHARY</td><td>11</td><td>A</td><td>SURAJBHAN CHOUDHARY</td><td>SHANTI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL SAIN </td><td>11</td><td>A</td><td> JAGDISH PRASAD SAIN</td><td>GEETA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAHUL SHARMA</td><td>11</td><td>A</td><td>SURESH KUMAR SHARMA</td><td> BIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>RAMESHWAR GURJAR</td><td>11</td><td>A</td><td>SUGNA RAM GURJAR</td><td>MULKI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ROHIT BUNAKAR</td><td>11</td><td>A</td><td> LALA RAM BUNAKAR</td><td>LADA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Rohit Kumar Meena</td><td>11</td><td>A</td><td>Pappu Meena</td><td>Bhagwati Devi</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ROSHAN SHARMA</td><td>11</td><td>A</td><td>SURESH KUMAR SHARMA</td><td> BIMLA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SAGAR MEENA</td><td>11</td><td>A</td><td> MAHESH KUMAR MEENA</td><td> HEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SALONI DABARIYA </td><td>11</td><td>A</td><td>RAJU LAL RAIGAR</td><td> KAVITA DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SONU MEENA</td><td>11</td><td>A</td><td>PRAKASH CHAND MEENA</td><td>PANCHI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SUNIL KUMAR BUNKAR</td><td>11</td><td>A</td><td> LAXMAN PRASAD BUNKAR</td><td> SUSHILA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SUNITA MEENA</td><td>11</td><td>A</td><td>THAKURDAS MEENA</td><td>GANGA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>VIJAY SWAMI </td><td>11</td><td>A</td><td> MADAN LAL SWAMI</td><td> RATANI DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Yogendra Singh Rathore</td><td>11</td><td>A</td><td>Bhanwar Singh</td><td>Rekha Kanwar</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>Yuvraj Singh Rathore</td><td>11</td><td>A</td><td>Bhanwar Singh Rathore</td><td>Rekha Kanwar</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>AJAY DABARIA </td><td>12</td><td>A</td><td>BHAGWAN SAHAY DABARIA</td><td>SHAKUNTLA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>AMAN LAKHIWAL</td><td>12</td><td>A</td><td>SOHAN LAL LAKHIWAL</td><td>SEEMA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ANITA SHARMA</td><td>12</td><td>A</td><td>LALCHAND SHARMA</td><td>BABLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ASHARAM GURJAR</td><td>12</td><td>A</td><td>SHANKAR LAL GURJAR</td><td>KAMALI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ASHOK KUMAR SHARMA</td><td>12</td><td>A</td><td>GIRDHARI LAL SHARMA</td><td>PREM DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>DEEPAK DABARIA</td><td>12</td><td>A</td><td>CHHITAR MAL RAIGAR</td><td>KALI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>HANSHA PRAJAPAT</td><td>12</td><td>A</td><td>MANA LAL PRAJAPAT</td><td>MOHANI DEVI PRAJAPAT</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>JITENDRA KUMAR SAINI</td><td>12</td><td>A</td><td>MADAN LAL SAINI</td><td>MEERA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KAVITA MEENA</td><td>12</td><td>A</td><td>THAKUR DAS MEENA</td><td>GANGA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>KOMAL MEENA</td><td>12</td><td>A</td><td>RAM JIVAN MEENA</td><td>TULSI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>LAXMI NARAYAN SAIN</td><td>12</td><td>A</td><td>SITARAM SAIN</td><td>LALI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANISH KUMAR SHARMA</td><td>12</td><td>A</td><td> SHRAWAN KUMAR SHARMA</td><td> GULAB DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANOJ VERMA</td><td>12</td><td>A</td><td>KALU RAM BUNKAR</td><td>BABLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MANSI GURJAR</td><td>12</td><td>A</td><td>MADAN LAL GURJAR</td><td>MOHNI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>MUSKAN BANO</td><td>12</td><td>A</td><td>MUJEFFAR KHAN</td><td>NAFISA BANO</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>NEHA DABARIA</td><td>12</td><td>A</td><td>MAHENDRA KUMAR DABARIA</td><td>SUMITRA DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA GURJAR</td><td>12</td><td>A</td><td>MADAN LAL GURJAR</td><td>MOHNI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>POOJA SHARMA</td><td>12</td><td>A</td><td>BABULAL SHARMA</td><td>MANJU DEVI </td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>REKHA SHARMA</td><td>12</td><td>A</td><td>SURESH CHAND SHARMA</td><td>KAMLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>ROSHAN PRAJAPAT</td><td>12</td><td>A</td><td>KAILASH CHAND PRAJAPAT</td><td>KAMLI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SANTOSH SHARMA</td><td>12</td><td>A</td><td>LALCHAND SHARMA</td><td>BABLI DEVI SHARMA</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SAPANA CHOUDHARY</td><td>12</td><td>A</td><td>SURAJBHAN CHOUDHARY</td><td>SANTI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>218589</td><td>SUNITA SHARMA</td><td>12</td><td>A</td><td>BANSHI DHAR SHARMA</td><td>RAMESHWARI DEVI</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
